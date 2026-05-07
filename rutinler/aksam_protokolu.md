@@ -1,28 +1,30 @@
-# ?? Akşam Protokolü: Günü Kapatmak ve Arınmak
+# 🌙 Akşam Protokolü: Günü Kapatmak ve Muhasebe
 
-İyi bir sabah, bir gece önceden başlar. Akşam protokolü, hem zihinsel hem de fiziksel olarak "kapanış" yapmanızı salar.
+İyi bir sabah, bir gece önceden başlar. Akşam protokolü, hem zihinsel hem de ruhsal olarak "kapanış" yapmanızı sağlar.
 
-## ?? 1. "Beyin Boaltımı" (Brain Dump)
-Yatmadan önce aklınızdaki tm yarım kalmış işleri, endişeleri ve yarın yapacaklarınızı bir kaıda veya dijital nota yazın. Zihniniz bu bilgileri "tutmak" zorunda kalmadıında daha derin bir uykuya geçer.
+## 🤲 1. Muhasebe (Nefis Murakabesi)
+Yatmadan önce günü değerlendirin:
+-   Bugün vaktimi israf ettim mi?
+-   Kırdığım bir kalp veya ihmal ettiğim bir görev var mı?
+-   Yarın için hangi niyetle uyanacağım?
 
-## ?? 2. Dijital Gün Batımı
-Yatmadan en az 1 saat önce tm ekranları kapatın.
+## 🚫 2. Dijital Gün Batımı
+Yatmadan en az 1 saat önce tüm ekranları kapatın.
 -   **Neden?** Mavi ışık melatonini baskılar ve beyni uyanık tutar.
--   **Alternatif:** Kitap okumak, günlük tutmak veya meditasyon yapmak.
+-   **Alternatif:** Kur'an okumak, günlük tutmak veya sessizce tefekkür etmek.
 
-## ?? 3. Mekan Hazırlıı
-Sabah uyandıınızda ferah bir ortamla karşılaşmak iin:
--   Mutfak tezgahını temizleyin.
--   Masanızı toplayın.
--   Yarın giyeceiniz kıyafetleri hazırlayın.
+## 🧹 3. Mekan ve İbadet
+Sabah uyandığınızda ferah bir ortamla karşılaşmak için:
+-   **Yatsı Namazı:** Günü huzurla bitirmenin son mühürü.
+-   **Mutfak ve Masa:** Tezgahı ve masayı toplayın. Yarın namaza kalktığınızda temiz bir evle karşılaşmak zihni rahatlatır.
 
-## ?? 4. Şükran ve Deerlendirme
+## 💡 4. Şükür ve Dua
 Günü 3 soruyla kapatın:
-1.  Bugün en çok neye şükrediyorum?
-2.  Bugün "Tüz" (Öz) ilkesine ne kadar sadık kaldım?
-3.  Yarın daha sade yaşamak iin ne yapabilirim?
+1.  Bugün en çok neye şükrediyorum? (En az 3 nimet sayın)
+2.  Bugün "Tüz" (öz) ilkesine ne kadar sadık kaldım?
+3.  Yarın daha sade ve ihlaslı yaşamak için ne yapabilirim?
 
 ---
 
-### ?? Motto:
-"Günü bitirmek, yeni bir balangıca yer açmaktır." Her akşam zihninizi ve evinizi temizleyerek uyumak, sabah tazelenmiş bir ruhla uyanmanızı salar.
+### 💬 Motto:
+"Günü bitirmek, yeni bir başlangıca yer açmaktır." Her akşam zihninizi ve ruhunuzu temizleyerek uyumak, sabah tazelenmiş bir ruhla uyanmanızı sağlar.

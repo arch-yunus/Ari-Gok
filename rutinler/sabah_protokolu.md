@@ -1,24 +1,24 @@
-# ?? Sabah Protokolü: Güne Tz (Öz) ile Başlamak
+# 🌅 Sabah Protokolü: Güne Namaz ve Tefekkürle Başlamak
 
-Günün ilk saatleri, zihninizin en temiz ve en verimli olduu zamanlardır. Bu saatleri sosyal medya veya karar karmaşasıyla harcamak, tm gnünüzün kalitesini düşürür.
+Günün ilk saatleri, zihninizin en temiz ve en verimli olduğu zamanlardır. Bu saatleri manevi bir huzur ve zihinsel berraklıkla başlatmak, tüm gününüzün kalitesini belirler.
 
-## ?? Karar Yorgunluunu Sfrla
-Sabah uyandıınızda yapmanız gereken seçimleri en aza indirin:
-1.  **Kıyafet:** Bir gece önceden ne giyeceinizi belirleyin (Kapsül Gardrop).
-2.  **Kahvaltı:** Standart ve salıklı bir menü belirleyin. Seçim yapmakla uramayın.
-3.  **lk Görev:** Gne en zor veya en önemli işinizle (The Eat That Frog) başlayın.
+## 🤲 Manevi Hazırlık
+Sabah uyandığınızda ruhunuzu doyurmak, bedeninizi doyurmaktan önce gelir:
+1.  **Sabah Namazı:** Günü yaratanın huzurunda durarak, zamanın bereketini isteyin.
+2.  **Tefekkür ve Zikir:** Kısa bir süre sessizce oturun, nefesinizi ve varlığınızı hissedin. Şükredin.
+3.  **Dijital Oruç:** Güne başkalarının gündemiyle (haberler, sosyal medya) değil, kendi iç sesinizle başlayın.
 
-## ?? Akış (Örnek)
--   **07:00 - Uyanış:** Telefonu eline alma (lk 1 saat dijital yasak).
--   **07:05 - Hidrasyon:** Büyük bir bardak su iç.
--   **07:10 - Hareket:** 5-10 dakikalık esneme veya hafif yürüyüş.
--   **07:20 - Zihinsel Hazırlık:** Gnün ana hedefini belirle (Sadece 1 ana hedef).
--   **07:30 - Odaklı Çalıma:** En önemli işine odaklan.
+## 🕒 Akış (Örnek)
+-   **05:30 - Uyanış:** Kısa bir şükür duası ile güne merhaba deyin.
+-   **05:40 - Sabah Namazı:** Vaktin huzuruna dahil olun.
+-   **06:00 - Tefekkür:** 10-15 dakika kitap okuma (hadis, felsefe veya manevi metinler).
+-   **06:20 - Hidrasyon:** Büyük bir bardak su için.
+-   **06:30 - Odaklı Çalışma:** En önemli işinize (Tüz) odaklanın.
 
-## ?? Neden Telefon Yasak?
-Uyandıınızda telefonunuza bakmak, beyninizi "reaktif" moda sokar. Başkalarının mesajlarına, haberlere veya maillere yanıt vererek gne başlamak, kontrolü kaybetmektir.
+## 🚫 Neden Telefon Yasak?
+Uyandığınızda telefonunuza bakmak, beyninizi "reaktif" moda sokar. Başkalarının mesajlarına, haberlere veya maillere yanıt vererek güne başlamak, kontrolü kaybetmektir.
 
 ---
 
-### ?? Uygulama:
-Yarın sabah telefonunuzu uçak modunda bırakın ve kahvaltınızı yapana kadar kontrol etmeyin. Sessizliin size ne kadar çok zaman kazandırdıını göreceksiniz.
+### 📝 Uygulama:
+Yarın sabah telefonunuzu uçak modunda bırakın ve sabah namazı sonrası tefekkürünüzü bitirene kadar kontrol etmeyin. Sessizliğin ve namazın verdiği huzurun size ne kadar çok zaman kazandırdığını göreceksiniz.
