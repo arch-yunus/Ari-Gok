@@ -1,5 +1,3 @@
-
-
 # 🌌 ARI-TÖZ: Minimalist Yaşam ve Arınma Rehberi
 
 > **"Bunca varlık var iken, gitmez gönül darlığı."** — Yunus Emre
@@ -16,9 +14,9 @@ Minimalizm bir eksiklik değil, **mükemmel bir dengedir.**
 
 *   **Töz (Öz) İlkesi:** Sahip olduğun her nesne, senin zamanından ve enerjinden bir parça "kira" talep eder. Az eşya, daha fazla zaman; az gürültü, daha derin odaklanma demektir.
 *   **Arı (Arınmış) Zihin:** Dağınık bir oda, dağınık bir zihnin yansımasıdır. Çevreni sadeleştirmek, zihnindeki düğümleri çözmenin ilk adımıdır.
-*   **Bozkır Hareketliliği:** Tarihsel olarak Türk kültürü "yüklerinden kurtulmuş" bir kültürdür. Bu proje, o kadim göçebe ruhunu dijital çağın içine, evlerimize ve zihnimize taşımayı amaçlar.
 *   **Zühd ve İktisat (İslami Sadelik):** Eşyaya sahip olmak değil, eşyadan özgürleşmek esastır. İsraftan kaçınmak (İktisat) ve kalbi eşyaya bağlamamak (Zühd), hem maddi hem manevi bir arınmadır.
 *   **Tezkiye (Arınma):** Zihni ve ruhu gereksiz fuzuliyattan temizlemek, asıl olan "Töz" (öz) ile bağ kurmanın tek yoludur.
+*   **Bozkır Hareketliliği:** Tarihsel olarak Türk kültürü "yüklerinden kurtulmuş" bir kültürdür. Bu proje, o kadim göçebe ruhunu dijital çağın içine, evlerimize ve zihnimize taşımayı amaçlar.
 
 ---
 
@@ -71,4 +69,3 @@ Eğer senin de hayatını kolaylaştıran bir metodun, sadeleşme hikayen veya m
 ---
 
 > **Unutma:** Minimalizm bir varış noktası değil, bir yoldur. Her `git commit` attığında, hayatından bir fazlalığı silmiş olmanın hafifliğini hisset.
-
